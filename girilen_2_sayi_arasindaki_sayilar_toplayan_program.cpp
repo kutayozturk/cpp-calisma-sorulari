@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     //{ FOR DÖNGÜSÜ İLE Girilen iki sayi arasinda kalan sayiları toplayan program
-/*
+
     int s1,s2,toplam=0;
     cout << "2 sayi giriniz: ";
     cin >> s1 >> s2;
@@ -33,10 +33,8 @@ int main()
 
     //}
 
-*/
-
     //{ While Döngüsü İle
-/*
+
     int sayi1,sayi2,i,toplam=0;
     cout << "2 sayi giriniz: ";
     cin >> sayi1 >> sayi2;
@@ -50,8 +48,6 @@ int main()
      cout << "Toplam = " << toplam << endl;
 
     //}
-
-*/
 
     //{ DO While Döngüsü İle
 
