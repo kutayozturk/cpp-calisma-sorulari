@@ -10,5 +10,5 @@
 5. Yukaridaki soruyu sonu 0 olan yillarda kira artișinin olmayaca durumuna göre
     yeniden yaziniz.
 6. [Tersi ile 4 çarpıldığında, kendisine eşit olan 4 basamaklı sayi(ları) bulan programı yazınız.](https://github.com/kutayozturk/cpp-calisma-sorulari/blob/main/tersinin_4_kati_kendisine_esit_olan_sayi.cpp)
-7 Girilen bir cümleyi kelimelerine ayirarak ekranda alt alta gösteren programı yazınız.
+7. Girilen bir cümleyi kelimelerine ayirarak ekranda alt alta gösteren programı yazınız.
 
