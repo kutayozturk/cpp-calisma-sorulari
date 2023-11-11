@@ -1,7 +1,7 @@
 # C++ Çalışma Soruları
 
 1. [Kullanıcıdan alınan iki sayı arasında kalan sayıların toplamını bulan programı yazınız.](https://github.com/kutayozturk/cpp-calisma-sorulari/blob/main/girilen_2_sayi_arasindaki_sayilar_toplayan_program.cpp)
-2. 1 ile 1000 Arasindaki Sayilarin Ortalamasini bulan programi yaziniz.
+2. [1 ile 1000 Arasindaki Sayilarin Ortalamasini bulan programi yaziniz.](https://github.com/kutayozturk/cpp-calisma-sorulari/blob/main/1-1000%20arasi%20ortalama.cpp)
 3. Tabani ve kuvveti girilen islemin sonucunu hesaplayip ekranda gösteren programi
     yaziniz.
 4. Yeni kiraladigimiz bir evin kirasinin 1000 TL oldugunu varsayalim. Ve her yil kirayi
