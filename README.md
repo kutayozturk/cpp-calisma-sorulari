@@ -11,5 +11,6 @@
     yeniden yaziniz.
 6. [Girilen sayının tersini bulan programı yazınız.](https://github.com/kutayozturk/cpp-calisma-sorulari/blob/main/GirilenSayininTersi.cpp)
 7. [Tersi ile 4 çarpıldığında, kendisine eşit olan 4 basamaklı sayi(ları) bulan programı yazınız.](https://github.com/kutayozturk/cpp-calisma-sorulari/blob/main/tersinin_4_kati_kendisine_esit_olan_sayi.cpp)
-8. Girilen bir cümleyi kelimelerine ayirarak ekranda alt alta gösteren programı yazınız.
+8. [Palindrom Sayı mı? (Palindrom, ters çevrildiğinde aynı değeri elde eden bir sayıdır)](https://github.com/kutayozturk/cpp-calisma-sorulari/blob/main/palindromSayiMi.cpp)
+9. Girilen bir cümleyi kelimelerine ayirarak ekranda alt alta gösteren programı yazınız.
 
